@@ -1,0 +1,7 @@
+#Sat Apr 15 16:38:34 CDT 2017
+base.0=C\:\\Users\\Siwei\\AndroidStudioProjects\\USOUND\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_06794f777b859bb8e01a2e1fd2aada5f3cc92b09
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Siwei\\AndroidStudioProjects\\USOUND\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_54d0b2698927437638770f392f623b16fc7c6eb2\\classes.dex
+base.1=C\:\\Users\\Siwei\\AndroidStudioProjects\\USOUND\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_54d0b2698927437638770f392f623b16fc7c6eb2
+file.0=C\:\\Users\\Siwei\\AndroidStudioProjects\\USOUND\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_06794f777b859bb8e01a2e1fd2aada5f3cc92b09\\classes.dex

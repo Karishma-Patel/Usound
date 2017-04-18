@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_070139e008365ab3a8c64b5039ff26adb8ff4a3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d8c73cb49f69c6b023c869bafbe98c589c4aec1">
+        <dex dex="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_06794f777b859bb8e01a2e1fd2aada5f3cc92b09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_f63674b86f07b5aadfc3ba3657c0e19a21acdd1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_070139e008365ab3a8c64b5039ff26adb8ff4a3a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9bfdd67789319059a9eb21dea2748f899f3426f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_f63674b86f07b5aadfc3ba3657c0e19a21acdd1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_9bfdd67789319059a9eb21dea2748f899f3426f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_bbdf3b1b5956e6cf114b6c715bcc27fe5a720637.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Siwei\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_e18e35cb564658516b141dbaad019f581f508538.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_bbdf3b1b5956e6cf114b6c715bcc27fe5a720637\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_436d0fd19898e9155f8059a813aa9ccd81845a22\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_6790b2023fe310902c241b5d5a8a79eedf745b66.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3447cdca785ac986da759e799581ff81136d784f">
+        <dex dex="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_54d0b2698927437638770f392f623b16fc7c6eb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siwei\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_e18e35cb564658516b141dbaad019f581f508538\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_436d0fd19898e9155f8059a813aa9ccd81845a22.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7c97eb3d9c39fc2d2461e2c691dcf5bf60e90ae1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_6790b2023fe310902c241b5d5a8a79eedf745b66\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_7c97eb3d9c39fc2d2461e2c691dcf5bf60e90ae1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_7138cc86ba10f4e99b13288691cf4cea7b2a3702\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e27cb54435a6d31aeb2e22362cc439e84cad56ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_9d7ebe4396b3cf49ea63d3532ed9cbf09892d1b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_7138cc86ba10f4e99b13288691cf4cea7b2a3702.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e27cb54435a6d31aeb2e22362cc439e84cad56ab.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9d7ebe4396b3cf49ea63d3532ed9cbf09892d1b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_eb1dcd7c466bd62ebd953a79240bd26971ff9850.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b667f2c2b0640da54ae98baa6aedc9d74476a787\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b667f2c2b0640da54ae98baa6aedc9d74476a787.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_eb1dcd7c466bd62ebd953a79240bd26971ff9850\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_eac35278c5c407a74be7dd904162581d443c0174\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_b6373b714792dbe7b41b798c5021c97b60b096a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_eac35278c5c407a74be7dd904162581d443c0174.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Siwei\AndroidStudioProjects\USOUND\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_b6373b714792dbe7b41b798c5021c97b60b096a2.jar" />
+    </item>
+
+</items>
